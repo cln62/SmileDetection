@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ChandlerTen/.android/build-cache/a311c932b71686d31cc831027bae89a2a075e22b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

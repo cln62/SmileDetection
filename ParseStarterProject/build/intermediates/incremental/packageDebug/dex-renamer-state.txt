@@ -1,0 +1,7 @@
+#Sat Oct 28 18:23:47 CDT 2017
+base.0=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e7394620d86c05c088044422d4f1d237aadf22a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c0b9909e1d91d446a12f15b81872ff87d8470ad/classes.dex
+base.1=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c0b9909e1d91d446a12f15b81872ff87d8470ad
+file.0=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e7394620d86c05c088044422d4f1d237aadf22a/classes.dex

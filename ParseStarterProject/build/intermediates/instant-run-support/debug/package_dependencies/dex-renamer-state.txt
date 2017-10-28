@@ -1,0 +1,25 @@
+#Sat Oct 28 18:23:45 CDT 2017
+renamed.7=classes6.dex
+renamed.6=classes2.dex
+renamed.5=classes4.dex
+renamed.4=classes8.dex
+renamed.3=classes5.dex
+renamed.2=classes7.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.7=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bd24338b630473d739d12c0a35edc235ed156fb1
+base.6=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f1b454fca5ad9331197b6640cfeba1b145d0cf
+base.5=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c010de7fa4ffd3ca74947c071250ac601fde0d21
+base.4=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d506784d405173e229254619cd85d64e20c6aec5
+base.3=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d88627d4f12a88d8e200be8bf53a86f0ae22f07a
+base.2=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_ef21198873ee7f840c3094a0ccd371bed00866f0
+base.1=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_3bbd2e476b3e6bd675001fbafedfc9d3a25ed74e
+base.0=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6b32ea2238c516f2ef3f22ec26920835716d1d1
+file.7=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bd24338b630473d739d12c0a35edc235ed156fb1/classes.dex
+file.6=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f1b454fca5ad9331197b6640cfeba1b145d0cf/classes.dex
+file.5=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c010de7fa4ffd3ca74947c071250ac601fde0d21/classes.dex
+file.4=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_d506784d405173e229254619cd85d64e20c6aec5/classes.dex
+file.3=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d88627d4f12a88d8e200be8bf53a86f0ae22f07a/classes.dex
+file.2=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_ef21198873ee7f840c3094a0ccd371bed00866f0/classes.dex
+file.1=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_3bbd2e476b3e6bd675001fbafedfc9d3a25ed74e/classes.dex
+file.0=/Users/ChandlerTen/Documents/ArchHacks/Smile/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6b32ea2238c516f2ef3f22ec26920835716d1d1/classes.dex
